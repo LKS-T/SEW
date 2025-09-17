@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oida", "Oida\Oida.csproj", "{A3C44DE1-80CF-42A3-9AFB-673A58306C79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C44DE1-80CF-42A3-9AFB-673A58306C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C44DE1-80CF-42A3-9AFB-673A58306C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C44DE1-80CF-42A3-9AFB-673A58306C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C44DE1-80CF-42A3-9AFB-673A58306C79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
